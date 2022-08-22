@@ -1,2 +1,2 @@
 # study-java
-java를 공부하면서 배우거나 만든 코드를 올리는 저장소입니다.
+java 첫 번째 프로젝트 console로 동작하는 stock 프로그램 만들기 입니다.
